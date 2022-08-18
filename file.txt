@@ -1,0 +1,4 @@
+Git Commit command captures a snapshot of the project’s currently 
+staged changes, committed snapshot can be thought of as safe version of a project.
+Git Commit command captures a snapshot of the project’s currently staged changes, 
+committed snapshot can be thought of as safe version of a project.
